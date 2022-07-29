@@ -73,7 +73,7 @@ function mealRecipeModal(meal) {
 
 <div class="meal_img py-2 text-center"><img class="" src="${meal.strMealThumb}" alt=""></div>
 
-<div class="meals_ link_videos text-center ">  
+<div class="meals_ link_videos text-center  mb-4">  
  <a href = "${meal.strYoutube}" target = "_blank">Watch Video</a>
 </div>
 

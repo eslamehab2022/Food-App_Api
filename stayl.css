@@ -184,7 +184,7 @@ h3 {
 }
 @media screen and (max-width:991px) {
   .descrsption {
-    width: 650px;
+    width: 90%;
     max-width: 100%;
     overflow: scroll;
 
